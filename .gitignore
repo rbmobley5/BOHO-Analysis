@@ -1,0 +1,22 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Exclude the RMarkdown source file (keeps it local only)
+report.rmd
+
+# Exclude common temporary files
+*.tmp
+*.bak
+
+# Ensure data folder structure is kept but data itself is ignored if needed
+# data/*
+# !data/.gitkeep
+
+# Do NOT ignore these (Ensuring they are tracked)
+!scripts/
+!output/
+!report.html
+!README.md
