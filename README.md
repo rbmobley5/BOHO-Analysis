@@ -35,3 +35,4 @@ The project follows a modular structure to separate raw data processing from pro
 *   **Modeling:** Developed in R using the `tidyverse` for data wrangling, `TTR` for technical indicators, and `patchwork` for professional-grade visual layouts.
 
 
+# BOHO-Analysis
