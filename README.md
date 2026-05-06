@@ -33,4 +33,3 @@ The project follows a modular structure to separate raw data processing from pro
 ### **Technical Implementation**
 *   **Normalization:** Prices are converted from disparate units (cents/lb vs. USD/gal) to a standardized cents-per-gallon equivalent based on industry-standard conversion factors (~7.5 lbs of oil per gallon of biodiesel).
 *   **Modeling:** Developed in R using the `tidyverse` for data wrangling, `TTR` for technical indicators, and `patchwork` for professional-grade visual layouts.
-# BOHO-Analysis
